@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm an **Ambitious Backend Developer** and **Team Leader** from Yemen 🇾🇪, passionate about building scalable systems and leading high-performing teams. With expertise in Laravel, PostgreSQL, and modern backend architectures, I create robust solutions that drive business success.
+I'm an **Ambitious Backend Developer** from Yemen 🇾🇪, passionate about building scalable systems and leading high-performing teams. With expertise in Laravel, PostgreSQL, and modern backend architectures, I create robust solutions that drive business success.
 
 - 🔭 Currently working as **Backend Developer** at [Bootfi](https://bootfi.com)
 - 🌱 Building enterprise-level applications with **Laravel, PostgreSQL, MySQL, Firebase**
