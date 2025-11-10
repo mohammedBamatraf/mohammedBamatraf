@@ -50,6 +50,13 @@ I'm an **Ambitious Backend Developer** from Yemen 🇾🇪, passionate about bui
 
 ## 🏆 Featured Projects
 
+### 🤝 **Brooder369** - Service Marketplace
+[![Live](https://img.shields.io/badge/Live-Visit%20Site-success?style=flat-square)](https://brooder369.com)
+- Connecting service providers with customers
+- Real-time chat system with Firebase
+- Digital wallet and payment processing with **Tap Payments**
+- Action-based architecture for maintainability
+
 ### 🛒 **IQsteps** - Educational E-commerce Platform
 [![Live](https://img.shields.io/badge/Live-Visit%20Site-success?style=flat-square)](https://iqsteps.net)
 - Built RESTful APIs for course catalog, enrollment, and order processing
@@ -67,13 +74,6 @@ I'm an **Ambitious Backend Developer** from Yemen 🇾🇪, passionate about bui
 - Event creation, scheduling, and attendee management
 - Real-time push notifications with **Firebase FCM**
 - Modular design for seamless frontend integration
-
-### 🤝 **Brooder369** - Service Marketplace
-[![Live](https://img.shields.io/badge/Live-Visit%20Site-success?style=flat-square)](https://brooder369.com)
-- Connecting service providers with customers
-- Real-time chat system with Firebase
-- Digital wallet and payment processing with **Tap Payments**
-- Action-based architecture for maintainability
 
 ### 🎓 **Zone Distribution Management System** - Graduation Project
 - Warehouse distribution system for relief aid
